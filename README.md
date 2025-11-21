@@ -1,6 +1,6 @@
 ## Hello!
 
-I am a studinet in **Sakarya University**, studying **Information Systems Engineering**.
+I am a student in **Sakarya University**, studying **Information Systems Engineering**.
 
 <!--
 **DenizErdemAras/DenizErdemAras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
